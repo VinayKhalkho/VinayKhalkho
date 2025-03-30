@@ -8,7 +8,7 @@
 
 ## Software developer | Full stack web developer| Node/React/Next.Js/ASP.Net Core/ASP.Net web API developer !!
 
-> - 🎭 &nbsp;&nbsp;&nbsp;&nbsp;I'm working on a web application [ Using java,spring,html,css ...]
+> - 🎭 &nbsp;&nbsp;&nbsp;&nbsp;I'm working on a web application [ Using React,Bootstrap,MaterialUI,Custom Css]
 > - 📚 &nbsp;&nbsp;&nbsp;&nbsp;I'm tech-enthusiast & student willing to know the latest technology.🤣
 > - 🔍 &nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate with other content creators
 > - 🎯 &nbsp;&nbsp;&nbsp;&nbsp;2022 Goals: Create Project on Open Source | Contribute more to Open Source projects.
