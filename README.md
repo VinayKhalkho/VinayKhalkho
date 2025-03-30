@@ -1,7 +1,8 @@
 ### Hi, I'm vinay !
 
-[![linkrdin](https://img.shields.io/badge/%E2%8E%9F-Connect%20Wth%20Me...-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinay-khalkho) 
-[![telegram](https://img.shields.io/badge/%E2%8E%9F-Contact%20Me...-blue?style=for-the-badge&logo=linkedin)](https://t.me/Breaknum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Khalkho-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinay-khalkho)  
+[![Telegram](https://img.shields.io/badge/Telegram-Vinay%20Khalkho-blue?style=for-the-badge&logo=telegram)](https://t.me/Breaknum)
+
 
 ## I'm a Student,Developer, and Good learner !!
 
