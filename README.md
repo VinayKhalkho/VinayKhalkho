@@ -1,6 +1,6 @@
 ### Hi, I'm vinay !
 
-[![LinkedIn](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&labelColor=gray)](https://linkedin.com/in/vinay-khalkho) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="15"/>  [![Telegram](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=gray)](https://t.me/Breaknum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Khalkho-blue?style=for-the-badge&labelColor=gray)](https://linkedin.com/in/vinay-khalkho)  [![Telegram](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=gray)](https://t.me/Breaknum)
 
 
 
