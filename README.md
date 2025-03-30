@@ -1,6 +1,6 @@
 ### Hi, I'm vinay !
 
-[![LinkedIn](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAuNSAyMC41aC0zLjV2LTUuYzAtMS4yLS4yLTIuMi0xLjQtMi4ycy0yLjEgMS4xLTIuMSAyLjJ2NS4ySDcuMXYtMTAuOGgzLjV2MS4xYzEuMS0uOCAyLjQtMS40IDMuOS0xLjQgNC4xIDAgNC44IDIuNyA0LjggNi4ydiA0Ljh6bS0xMy44LTEyaC0zLjV2MTAuOGgzLjVWOC4ybTcuNC0uOGMtMS4yIDAtMi4yIDEtMi4yIDIuMnY0LjZoMy40di00LjZDNjQuNSA5IDYzLjUgOS4yIDYyLjYgOS4yIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTUgNC4yYy0xIDAtMS43LjctMS43IDEuNnMuNyAxLjcgMS43IDEuNnMxLjYtLjcgMS42LTEuNi0uNy0xLjYtMS42LTEuNnptMS43IDVoLTMuNXYxMC44aDMuNVY5LjJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)&labelColor=gray)](https://linkedin.com/in/vinay-khalkho)  [![Telegram](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=gray)](https://t.me/Breaknum)
+[![LinkedIn](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&labelColor=gray)](https://linkedin.com/in/vinay-khalkho) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="28"/>  [![Telegram](https://img.shields.io/badge/-Vinay%20Khalkho-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=gray)](https://t.me/Breaknum)
 
 
 
